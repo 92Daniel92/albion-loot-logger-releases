@@ -1,0 +1,1 @@
+# albion-loot-logger-releases
